@@ -1,4 +1,1 @@
-# Supermarket Sale Analysis
-Excel Dashboarding Project
-The uploaded file is a project made my me on Dashboarding with Excel.
-Some data from a supermarket is gathered and rest all is displayed with a few top-of-the-mind insights
+Discovering the factors which created a difference between Superhosts and other hosts such as overall reviews, comments analysis, etc.
